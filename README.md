@@ -1,6 +1,6 @@
 # jekyll-gulp-optimizations | Getting you to a Google PageSpeed Insights score of 100
 
-This is an adaption and extension of a already very good gulp script from Steve Edson's post [Automating optimisations with Gulp](https://steveedson.co.uk/gulp/advanced-tasks/){:target="_blank"}.
+This is an adaption and extension of a already very good gulp script from Steve Edson's post [Automating optimisations with Gulp](https://steveedson.co.uk/gulp/advanced-tasks/).
 
 ## Installation
 

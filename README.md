@@ -2,7 +2,7 @@
 
 This is an adaption and extension of a already very good gulp script from Steve Edson's post [Automating optimisations with Gulp](https://steveedson.co.uk/gulp/advanced-tasks/).
 
-## For further explenation take a look at [my blog post about it.](https://www.dimitrikoenig.net/scoring-100-on-googles-pagespeed-insights.html)
+## For further explanation take a look at [my blog post about it.](https://www.dimitrikoenig.net/scoring-100-on-googles-pagespeed-insights.html)
 
 ## Installation
 
